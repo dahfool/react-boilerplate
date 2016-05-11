@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/dahfool/react-boilerplate.svg?branch=master)](https://travis-ci.org/dahfool/react-boilerplate)
+
 # React boilerplate
 React es6 boilerplate, using es6 versions of gulp and webpack config. Please make sure you have latest versions of node,
 
