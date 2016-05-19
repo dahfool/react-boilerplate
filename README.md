@@ -5,6 +5,9 @@ React es6 boilerplate, using es6 versions of gulp and webpack config. Please mak
 
 ### Installation
 
+If you do that have gulp installed globally run
+    npm install --global gulp-cli
+Then    
     npm install
 
 ### Useful links
@@ -13,3 +16,5 @@ React es6 boilerplate, using es6 versions of gulp and webpack config. Please mak
 - https://babeljs.io/blog/2015/06/07/react-on-es6-plus
 - https://webpack.github.io/
 - http://es6katas.org/    
+
+Gulp
